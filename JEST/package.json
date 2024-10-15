@@ -1,0 +1,11 @@
+{
+  "name": "jest",
+  "version": "1.0.0",
+  "description": "Projeto para o curso de testes unitarios do projeto de extensão Fabrica de Testadores",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC"
+}
