@@ -1,9 +1,5 @@
-
 const soma = (a, b) => {
-  return a + b;
-}
-
-console.log("Exportando a função soma");
+	return a + b;
+};
 
 module.exports = soma;
-
