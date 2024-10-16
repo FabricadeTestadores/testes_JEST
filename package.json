@@ -1,14 +1,17 @@
 {
-  "name": "jest",
+  "name": "testes_wgesad",
   "version": "1.0.0",
-  "description": "Projeto para o curso de testes unitarios do projeto de extensão Fabrica de Testadores",
   "main": "index.js",
   "scripts": {
     "test": "jest"
   },
   "author": "",
   "license": "ISC",
+  "description": "",
   "dependencies": {
-    "jest": "file:"
+    "testes_wgesad": "file:"
+  },
+  "devDependencies": {
+    "jest": "^29.7.0"
   }
 }
